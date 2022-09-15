@@ -1,0 +1,15 @@
+C:\Users\acidm\Downloads\confuser\Confuser.MSBuild\bin\Release\Confuser.MSBuild.dll
+C:\Users\acidm\Downloads\confuser\Confuser.MSBuild\bin\Release\Confuser.MSBuild.pdb
+C:\Users\acidm\Downloads\confuser\Confuser.MSBuild\bin\Release\Confuser.Core.dll
+C:\Users\acidm\Downloads\confuser\Confuser.MSBuild\bin\Release\Mono.Cecil.dll
+C:\Users\acidm\Downloads\confuser\Confuser.MSBuild\bin\Release\Mono.Cecil.Pdb.dll
+C:\Users\acidm\Downloads\confuser\Confuser.MSBuild\bin\Release\Confuser.Core.Injections.dll
+C:\Users\acidm\Downloads\confuser\Confuser.MSBuild\bin\Release\Mono.Cecil.pdb
+C:\Users\acidm\Downloads\confuser\Confuser.MSBuild\bin\Release\Confuser.Core.pdb
+C:\Users\acidm\Downloads\confuser\Confuser.MSBuild\bin\Release\Mono.Cecil.Pdb.pdb
+C:\Users\acidm\Downloads\confuser\Confuser.MSBuild\bin\Release\Confuser.Core.Injections.pdb
+C:\Users\acidm\Downloads\confuser\Confuser.MSBuild\obj\Release\Confuser.MSBuild.csproj.AssemblyReference.cache
+C:\Users\acidm\Downloads\confuser\Confuser.MSBuild\obj\Release\Confuser.MSBuild.csproj.CoreCompileInputs.cache
+C:\Users\acidm\Downloads\confuser\Confuser.MSBuild\obj\Release\Confuser.MSBuild.csproj.CopyComplete
+C:\Users\acidm\Downloads\confuser\Confuser.MSBuild\obj\Release\Confuser.MSBuild.dll
+C:\Users\acidm\Downloads\confuser\Confuser.MSBuild\obj\Release\Confuser.MSBuild.pdb
