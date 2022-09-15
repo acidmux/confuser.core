@@ -1,0 +1,7 @@
+C:\Users\acidm\Downloads\confuser\cecil\bin\net_4_0_Release\Mono.Cecil.Mdb.dll
+C:\Users\acidm\Downloads\confuser\cecil\bin\net_4_0_Release\Mono.Cecil.Mdb.pdb
+C:\Users\acidm\Downloads\confuser\cecil\symbols\mdb\obj\net_4_0_Release\Mono.Cecil.Mdb.csproj.AssemblyReference.cache
+C:\Users\acidm\Downloads\confuser\cecil\symbols\mdb\obj\net_4_0_Release\Mono.Cecil.Mdb.csproj.CoreCompileInputs.cache
+C:\Users\acidm\Downloads\confuser\cecil\symbols\mdb\obj\net_4_0_Release\Mono.Cecil.Mdb.csproj.CopyComplete
+C:\Users\acidm\Downloads\confuser\cecil\symbols\mdb\obj\net_4_0_Release\Mono.Cecil.Mdb.dll
+C:\Users\acidm\Downloads\confuser\cecil\symbols\mdb\obj\net_4_0_Release\Mono.Cecil.Mdb.pdb

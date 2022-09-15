@@ -1,0 +1,6 @@
+C:\Users\acidm\Downloads\confuser\Confuser.Core.Injections\obj\Debug\Confuser.Core.Injections.csproj.AssemblyReference.cache
+C:\Users\acidm\Downloads\confuser\Confuser.Core.Injections\obj\Debug\Confuser.Core.Injections.csproj.CoreCompileInputs.cache
+C:\Users\acidm\Downloads\confuser\Confuser.Core.Injections\bin\Debug\Confuser.Core.Injections.dll
+C:\Users\acidm\Downloads\confuser\Confuser.Core.Injections\bin\Debug\Confuser.Core.Injections.pdb
+C:\Users\acidm\Downloads\confuser\Confuser.Core.Injections\obj\Debug\Confuser.Core.Injections.dll
+C:\Users\acidm\Downloads\confuser\Confuser.Core.Injections\obj\Debug\Confuser.Core.Injections.pdb

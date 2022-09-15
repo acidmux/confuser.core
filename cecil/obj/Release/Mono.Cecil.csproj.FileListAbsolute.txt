@@ -1,0 +1,6 @@
+C:\Users\acidm\Downloads\confuser\cecil\bin\Release\Mono.Cecil.dll
+C:\Users\acidm\Downloads\confuser\cecil\bin\Release\Mono.Cecil.pdb
+C:\Users\acidm\Downloads\confuser\cecil\obj\Release\Mono.Cecil.csproj.AssemblyReference.cache
+C:\Users\acidm\Downloads\confuser\cecil\obj\Release\Mono.Cecil.csproj.CoreCompileInputs.cache
+C:\Users\acidm\Downloads\confuser\cecil\obj\Release\Mono.Cecil.dll
+C:\Users\acidm\Downloads\confuser\cecil\obj\Release\Mono.Cecil.pdb

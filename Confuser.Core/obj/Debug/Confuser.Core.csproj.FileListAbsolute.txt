@@ -1,0 +1,13 @@
+C:\Users\acidm\Downloads\confuser\Confuser.Core\obj\Debug\Confuser.Core.csproj.AssemblyReference.cache
+C:\Users\acidm\Downloads\confuser\Confuser.Core\obj\Debug\Confuser.Core.csproj.CoreCompileInputs.cache
+C:\Users\acidm\Downloads\confuser\Confuser.Core\bin\Debug\Confuser.Core.dll
+C:\Users\acidm\Downloads\confuser\Confuser.Core\bin\Debug\Confuser.Core.pdb
+C:\Users\acidm\Downloads\confuser\Confuser.Core\bin\Debug\Confuser.Core.Injections.dll
+C:\Users\acidm\Downloads\confuser\Confuser.Core\bin\Debug\Mono.Cecil.dll
+C:\Users\acidm\Downloads\confuser\Confuser.Core\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\acidm\Downloads\confuser\Confuser.Core\bin\Debug\Mono.Cecil.pdb
+C:\Users\acidm\Downloads\confuser\Confuser.Core\bin\Debug\Mono.Cecil.Pdb.pdb
+C:\Users\acidm\Downloads\confuser\Confuser.Core\bin\Debug\Confuser.Core.Injections.pdb
+C:\Users\acidm\Downloads\confuser\Confuser.Core\obj\Debug\Confuser.Core.csproj.CopyComplete
+C:\Users\acidm\Downloads\confuser\Confuser.Core\obj\Debug\Confuser.Core.dll
+C:\Users\acidm\Downloads\confuser\Confuser.Core\obj\Debug\Confuser.Core.pdb
